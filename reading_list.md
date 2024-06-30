@@ -1,6 +1,7 @@
 ## Data Analysis Methodology Reading List
 
-1. **[An Introduction to Statistical Learning: with Applications in R](https://www.springer.com/us/book/9781461471370)** by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
+1. **[An Introduction to Statistical Learning: with Applications in Python](https://link.springer.com/book/10.1007/978-3-031-38747-0)** by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
+   - 2023
    - Covers key statistical and machine learning techniques with practical examples, focusing on the application of these concepts.
    - Cheaper on springer.com than on Amazon
 
