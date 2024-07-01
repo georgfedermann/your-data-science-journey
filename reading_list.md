@@ -1,3 +1,17 @@
+## Python Reading List
+
+1. **[Effective Python, Second Edition](https://www.effectivepython.com/)** by Brett Slatkin (Addison-Wesley)
+   - This book offers 90 specific ways to write better Python code, covering best practices and tips for various aspects of Python programming. It's ideal for programmers who want to refine their skills.
+
+1. **[Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/)** by Luciano Ramalho (O’Reilly)
+   - This book provides a thorough understanding of Python's features and libraries, helping you write more idiomatic and effective Python code. It's suitable for experienced Python developers.
+
+1. **[Python Cookbook, Third Edition](https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/)** by David Beazley and Brian K. Jones (O’Reilly)
+   - This book contains a collection of Python programming recipes for various tasks, focusing on Python 3. It's a great resource for intermediate to advanced Python programmers.
+
+1. **[Python for Data Analysis, 3rd Edition](https://www.oreilly.com/library/view/python-for-data/9781491957653/)** by Wes McKinney (O’Reilly)
+   - This book focuses on the Python programming language and its use in data analysis. It covers essential libraries like pandas, NumPy, and matplotlib, and is perfect for data scientists and analysts.
+
 ## Data Analysis Methodology Reading List
 
 1. **[An Introduction to Statistical Learning: with Applications in Python](https://link.springer.com/book/10.1007/978-3-031-38747-0)** by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
